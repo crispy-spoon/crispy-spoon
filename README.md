@@ -6,7 +6,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.instagram.com/realphoenix.099/"><img height="30" src="https://raw.githubusercontent.com/crispy-spoom/crispy-spoon/master/png/instagram.png?raw=true"</a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/realphoenix.099/"><img height="30" src="https://raw.githubusercontent.com/crispy-spoon/crispy-spoon/master/png/instagram.png?raw=true"</a>&nbsp;&nbsp;
 <a href="https://telegram.dog/ASHMIT999"><img height="30" src="https://raw.githubusercontent.com/crispy-spoon/crispy-spoon/master/png/Telegram-Logo.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
