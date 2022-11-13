@@ -1,13 +1,13 @@
 <div align="center">
-   <h1>Hello World, I'm <a href="https://t.me/ASHMIT999">Ashmit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hello World, I'm <a href="https://GitHub.com/crispy-spoon">Ashmit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 <p align='center'>
-   <a href="https://www.instagram.com/realphoenix.099/"><img height="30" src="https://raw.githubusercontent.com/crispy-spoon/crispy-spoon/master/png/instagram.png?raw=true"</a>&nbsp;&nbsp;
-<a href="https://telegram.dog/ASHMIT999"><img height="30" src="https://raw.githubusercontent.com/crispy-spoon/crispy-spoon/master/png/Telegram-Logo.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/itz_phoenix_xd__/"><img height="30" src="https://raw.githubusercontent.com/crispy-spoon/crispy-spoon/master/png/instagram.png?raw=true"</a>&nbsp;&nbsp;
+<a href="https://telegram.dog/Ashmit4029"><img height="30" src="https://raw.githubusercontent.com/crispy-spoon/crispy-spoon/master/png/Telegram-Logo.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 
 ### - Blogs 🌱
 
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![Made With Love In India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
 ***********************************
 
