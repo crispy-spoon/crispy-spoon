@@ -59,10 +59,10 @@
 If you want to contact me, just ping me 😉.
 
 <a href="mailto:crispyashmit@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+ <img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://t.me/Chad_Alex">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" />
+ <img align="left" alt="telegram"src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 </br>
 </br>
