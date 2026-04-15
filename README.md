@@ -27,12 +27,11 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools I Use 👨‍💻 🛠:
 </br>
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="css"">
@@ -53,9 +52,6 @@
 # Contact Me :
 
 <p>
- </br>
-
-
 If you want to contact me, just ping me 😉.
 
 <a href="mailto:crispyashmit@gmail.com">
