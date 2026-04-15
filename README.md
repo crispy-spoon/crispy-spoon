@@ -54,7 +54,7 @@
 <img src="https://github.com/crispy-spoon/crispy-spoon/blob/ec14c8dd82c4d862cd71edd0d4831c41b69d363c/assets/93195.gif" alt="gemini">
 <br>
 <p>
-If you want to contact me, just ping me 😉.
+If you want to contact me, just ping me 😉. <br>
 <a href="mailto:crispyashmit@gmail.com">
  <img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
