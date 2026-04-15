@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white" alt="webstorm">
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" alt="gemini">
 </p>
-</br>
+
 # Contact Me :
 <br>
 <img src="https://github.com/crispy-spoon/crispy-spoon/blob/ec14c8dd82c4d862cd71edd0d4831c41b69d363c/assets/93195.gif" alt="gemini">
