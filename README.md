@@ -37,9 +37,9 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="" alt="python" width="120" hight="50">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html"  width="100" hight="50">
-<img src="https://github.com/crispy-spoon/crispy-spoon/blob/5084448ecba571f6673fe8692f193f952f34b4fe/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="css" width="90" hight="50">
 </br>
 <img src="https://github.com/crispy-spoon/crispy-spoon/blob/5084448ecba571f6673fe8692f193f952f34b4fe/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
