@@ -25,7 +25,9 @@
 # Languages & Tools I Use 👨‍💻 🛠:
 </br>
 
-<img hight="100" width="50" alt="GIF" align="right" src="https://github.com/crispy-spoon/crispy-spoon/blob/e4d3c15c84f0a0453558299ae5832b70a5ec88f5/assets/13626.gif">
+<p align="center">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/crispy-spoon/crispy-spoon/blob/e4d3c15c84f0a0453558299ae5832b70a5ec88f5/assets/13626.gif">
+</p>
 
 <p align="center">
 
