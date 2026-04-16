@@ -25,7 +25,7 @@
 # Languages & Tools I Use 👨‍💻 🛠:
 </br>
 
-<p align="center">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/crispy-spoon/crispy-spoon/blob/e4d3c15c84f0a0453558299ae5832b70a5ec88f5/assets/13626.gif">
 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html">
